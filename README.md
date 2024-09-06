@@ -4,4 +4,4 @@
 
 [Cart management and Order management test cases](https://github.com/AntonWDC/Web-Application-Testing/blob/main/Anton_Sobolev_Updated_Test_cases.pdf)
 
-[Tast Plan](https://docs.google.com/spreadsheets/d/1NqdFTLi1GKV1WeGKg68mEPNbzmCuWvz3fF8OJ1VdYHc/edit?usp=sharing)
+[Test Plan](https://docs.google.com/spreadsheets/d/1NqdFTLi1GKV1WeGKg68mEPNbzmCuWvz3fF8OJ1VdYHc/edit?usp=sharing)
